@@ -1,0 +1,114 @@
+.leader a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+}
+
+.head {
+  background-image: url(../img/01.jpg);
+  height: 675px;
+  color: white;
+}
+
+.leader {
+  margin-top: 35px;
+}
+
+.leader-span {
+  font-size: 20px;
+}
+
+.head-text {
+  float: right;
+}
+
+.head-text a {
+  margin: 0px 35px 0 0;
+  font-size: 13px;
+  font-weight: 600;
+  opacity: 0.9;
+  padding-bottom: 5px;
+}
+
+.head-div {
+  display: flex;
+  float: right;
+}
+
+.headDefault {
+  width: 180px;
+  height: 55px;
+  text-align: center;
+  line-height: 55px;
+  font-size: 13px;
+  font-weight: 600;
+  background-color: black;
+  margin: 5px 0 0px 0px;
+  position: relative;
+  left: -425px;
+  top: -8px;
+}
+
+.headDefault:hover {
+  cursor: pointer;
+}
+
+.headD1 {
+  position: relative;
+  left: -310px;
+  width: 120px;
+}
+
+.headD2 {
+  position: relative;
+  left: -125px;
+}
+
+.headD3 {
+  position: relative;
+  left: 20px;
+}
+
+.head-btn {
+  float: right;
+  text-align: center;
+  line-height: 43px;
+  width: 116.5px;
+  height: 43px;
+  border-radius: 25px;
+  border: 2px solid white;
+  margin: -15px 20px 0px 0px;
+}
+
+.head-btn:hover {
+  cursor: pointer;
+  color: black;
+  background-color: #fff;
+}
+
+/* 导航条CSS结束 */
+
+.head-content {
+  margin-top: 180px;
+  text-align: center;
+}
+
+.head-content p {
+  font-size: 24px;
+  font-family: "ink free";
+}
+
+.head-content h1 {
+  font-size: 68px;
+  margin: 30px 0;
+}
+
+.head-content a {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  font-family: "ink free";
+  border-bottom: 1px solid white;
+}
+
+/* head结束 */
