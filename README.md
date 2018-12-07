@@ -1,4 +1,4 @@
-# Gauhar_vue
+# smallzip_resume
 
 > A Vue.js project
 
